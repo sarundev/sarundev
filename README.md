@@ -2,7 +2,7 @@
 
 A modern movie streaming web application with authentication, movie browsing, purchase flow, payment integration, and admin management.
 
-![Home Page]([https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/screenshots/home.png](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
+![Home Page][https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg]
 ---
 
 ## 🚀 Features
