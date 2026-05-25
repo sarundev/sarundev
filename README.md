@@ -59,7 +59,6 @@ A full-stack movie streaming platform with authentication, movie browsing, payme
 - DigitalOcean Spaces video storage
 - Responsive frontend UI
 
-![Movie Platform](https://raw.githubusercontent.com/sarundev/Frontend_Loan/main/screenshots/movie-platform.png)
 
 ---
 
@@ -75,7 +74,6 @@ A modern business website for a gold shop with product showcase, trust-focused U
 - Clean landing page
 - Mobile responsive design
 
-![Gold Shop](https://raw.githubusercontent.com/sarunkhmer01/YOUR_REPOSITORY/main/screenshots/gold-shop.png)
 
 ---
 
@@ -91,7 +89,6 @@ A payment flow system using external payment providers with QR payment, callback
 - Success confirmation page
 - Clean popup/dialog payment flow
 
-![Payment System](https://raw.githubusercontent.com/sarunkhmer01/YOUR_REPOSITORY/main/screenshots/payment-system.png)
 
 ---
 
@@ -108,7 +105,7 @@ A backend management dashboard for handling users, products, orders, payments, c
 - Dashboard statistics
 - Secure backend API
 
-![Admin Dashboard](https://raw.githubusercontent.com/sarunkhmer01/YOUR_REPOSITORY/main/screenshots/admin-dashboard.png)
+
 
 ---
 
