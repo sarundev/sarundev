@@ -1,16 +1,75 @@
-## Hi there 👋
+# 🎬 Movie Streaming Platform
 
-<!--
-**sarundev/sarundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern movie streaming web application with authentication, movie browsing, purchase flow, payment integration, and admin management.
 
-Here are some ideas to get you started:
+![Project Banner](./public/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Features
+
+- 🔐 User authentication with Google login
+- 🎥 Movie and TV show browsing
+- 🏠 Home page movie carousel
+- 🔎 Filter by category, genre, type, and status
+- 💳 Payment integration
+- ✅ Payment success page
+- 🧾 Purchase history
+- 🛠️ Admin dashboard
+- 🌐 Responsive design for desktop and mobile
+- ⚡ Fast API integration
+- 🎞️ TMDB movie data support
+
+---
+
+## 🖼️ Screenshots
+
+### Home Page
+![Home Page](./screenshots/home.png)
+
+### Movie Detail
+![Movie Detail](./screenshots/movie-detail.png)
+
+### Payment Dialog
+![Payment Dialog](./screenshots/payment.png)
+
+### Success Page
+![Success Page](./screenshots/success.png)
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+- Next.js
+- React
+- Tailwind CSS
+- TypeScript
+
+### Backend
+- Laravel
+- MySQL / PostgreSQL
+- Redis Queue
+- API Integration
+
+### Services
+- TMDB API
+- ABA PayWay / Payment Provider
+- DigitalOcean Spaces
+- Cloudflare
+
+---
+
+## 📁 Project Structure
+
+```bash
+project/
+├── app/
+├── components/
+├── pages/
+├── public/
+├── screenshots/
+├── services/
+├── utils/
+├── .env.example
+└── README.md
