@@ -59,7 +59,7 @@ A full-stack movie streaming platform with authentication, movie browsing, payme
 - DigitalOcean Spaces video storage
 - Responsive frontend UI
 
-![Movie Platform](https://raw.githubusercontent.com/sarunkhmer01/https://github.com/sarundev/Frontend_Loan/main/screenshots/movie-platform.png)
+![Movie Platform](https://raw.githubusercontent.com/sarundev/Frontend_Loan/main/screenshots/movie-platform.png)
 
 ---
 
